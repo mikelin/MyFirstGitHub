@@ -19,6 +19,7 @@
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
     NSLog(@"Git test");
+    NSLog(@"Git Branch test");
 }
 
 - (void)didReceiveMemoryWarning
